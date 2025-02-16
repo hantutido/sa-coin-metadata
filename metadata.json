@@ -2,6 +2,6 @@
   "name": "SA Coin",
   "symbol": "SAC",
   "description": "SA Coin is a community-driven token on Solana.",
-  "image": "https://hantutido.github.io/sa-coin-metadata/SA_Coin.png",
+  "image": "https://github.com/hantutido/sa-coin-metadata/blob/main/SA%20Coin.png?raw=true",
   "decimals": 9
 }
