@@ -1,0 +1,7 @@
+{
+  "name": "SA Coin",
+  "symbol": "SAC",
+  "description": "SA Coin is a community-driven token on Solana.",
+  "image": "https://hantutido.github.io/sa-coin-metadata/SA_Coin.png",
+  "decimals": 9
+}
