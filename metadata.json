@@ -2,7 +2,6 @@
   "name": "SA Coin",
   "symbol": "SA",
   "uri": "https://hantutido.github.io/sa-coin-metadata/metadata.json",
-  "image": "https://hantutido.github.io/sa-coin-metadata/SA%20Coin.png",
   "seller_fee_basis_points": 0,
   "creators": [
     {
