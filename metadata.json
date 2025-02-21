@@ -1,7 +1,14 @@
 {
   "name": "SA Coin",
-  "symbol": "SAC",
-  "description": "SA Coin is a community-driven token on Solana.",
+  "symbol": "SA",
+  "uri": "https://hantutido.github.io/sa-coin-metadata/metadata.json",
   "image": "https://hantutido.github.io/sa-coin-metadata/SA%20Coin.png",
-  "decimals": 9
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "5jgTou3zsncLVfgF5XrYES3aTunsPv7ymofsCiAUfBcN",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
