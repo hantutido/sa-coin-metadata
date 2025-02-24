@@ -1,7 +1,17 @@
 {
-  "name": "SA Coin",
-  "symbol": "SA",
-  "uri": "https://hantutido.github.io/sa-coin-metadata/metadata.json",
+  "name": "SCAM ALERT Coin",
+  "symbol": "SAC",
+  "description": "A meme coin that tracks scammer accounts using AI.",
+  "image": "https://hantutido.github.io/sa-coin-metadata/SA Coin.png",
+  "external_url": "https://hantutido.github.io/",
   "seller_fee_basis_points": 0,
-  "creators": null
+  "properties": {
+    "files": [
+      {
+        "uri": "https://hantutido.github.io/sa-coin-metadata/SA Coin.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
